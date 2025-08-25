@@ -8,4 +8,18 @@ html {
 
 body {
   font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+}
+
+/* ======================common====================== */
+
+a {
+  text-decoration: none;
+}
+
+/* ======================header====================== */
+
+.body {
+  display: flex;
+  justify-content: space-between;
 }
